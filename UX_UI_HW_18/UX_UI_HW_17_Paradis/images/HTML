@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tisha Paradis</title>
+    <link href="styles/style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header class="navigation">
+      <div class="logo">
+        <img src="../Logo.png"
+      </div>
+      <section class="hero image">
+        <div class="content">
+          <img src="../images/Portfolio Image.png" />
+          <p>
+            I am a UX/UI designer who is passionate about design and creating
+            digital products with engaging and inclusive content providing the
+            ease of usability. As a student, I was provided the opportunity to
+            design using various tools like Figma, InVision, Miro, and G-Suite
+          </p>
+          <button>Download Resume</button>
+        </div>
+      </section>
+
+      <nav>
+        <ul class="inline-block">
+          <li>about</li>
+          <li>skills</li>
+          <li>work</li>
+          <li>contact</li>
+        </ul>
+      </nav>
+    </header>
+    <footer>
+      <ul class="inline-block">
+        <li>about</li>
+        <li>skills</li>
+        <li>work</li>
+        <li>contact</li>
+      </ul>
+    </footer>
+  </body>
+</html>

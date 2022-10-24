@@ -1,0 +1,77 @@
+
+/*my portfolio stylesheet*/
+
+.inline-block li {
+    display: inline-block;
+    vertical-align: top;
+}
+div.logo {
+    width: -29%;
+    padding: 1%;
+    text-align: center;     
+}
+nav  {
+    width: 82%;
+    padding: 7%;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    background-color: dark gray;
+}
+.grid-container {
+    display: grid;
+}
+.box {
+    display: flex;
+    padding: 10px;
+    margin-left: 550px;
+ }
+ 
+div {
+    display: flex 
+    flex-direction: row;
+    
+}
+header ul {
+    width: 50%;
+    margin-left: 150px;
+ }
+.hero image{
+    height: 60px;
+    padding: 2px;    
+}
+div.content {
+    width: 800px;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+    
+}
+
+section class {
+    padding-bottom: 10px;
+}
+
+ footer {
+    background-color: #373738;
+    padding: bottom;
+    text-justify: center;
+    color: white;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+ footer ul {
+    text-align: center;
+ }
+ li {
+    display:inline-block;
+    vertical-align: center;
+    padding: 1px;
+    justify-content: space-evenly;
+      
+}
